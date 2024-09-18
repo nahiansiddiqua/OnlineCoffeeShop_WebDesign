@@ -9,5 +9,4 @@ Basic Styling: HTML and CSS, no frameworks used.
 📂 Tech Stack:
 
 HTML5: Provides the structure of the website.
-
 CSS3: Adds styling and layout to create an attractive, responsive design.
